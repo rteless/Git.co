@@ -1,0 +1,1 @@
+console.log("Este treinamento esta ficando bom!")
